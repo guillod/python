@@ -1,0 +1,10 @@
+jupyterlab
+numpy
+scipy
+sympy
+matplotlib
+pandas
+numba
+networkx
+jupyterlab-lsp
+python-lsp-server
