@@ -1,0 +1,13 @@
+name: python
+channels:
+  - conda-forge
+dependencies:
+  - jupyterlab-lsp
+  - python-lsp-server
+  - numpy
+  - scipy
+  - sympy
+  - matplotlib
+  - pandas
+  - numba
+  - networkx
